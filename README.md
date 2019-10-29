@@ -34,7 +34,7 @@ Database Tables (Global Schema):
 11.	warehouse (S_ID, S_Date, P_ID, P_Quantity, Buying_Price)
 12.	Sales (Serial_no, Month, Sales)
 
-Fragmentation Schema
+Fragmentation Schema:
 1.	Branch1 = PJbranch_ID,Location,PhoneSLLocation=’Dhanmondi’Branch
 2.	Branch2 = PJbranch_ID,Location,PhoneSLLocation=’Mohammadpur’Branch
   
