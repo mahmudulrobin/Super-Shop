@@ -50,5 +50,8 @@ Procedures:
 2. Procedure2: Displays the sales report.
 3. Procedure3: Distributes the warehouse.
 
+Machine Learning Technique:
+In a procedure , we used a machine learning technique called linear regression to predict the sales outcome for any month. Our dataset includes 2 columns (Month = x, Sales = y). So for month, x = 1, 2…12 we inserted sales value y. Then we calculated values by using the regression formula for a and b. Then for any month, x = 1 = January we calculated y = a + bx and found the predicted score.
+
 Conclusion:
 Distributing the Super Shop database can lead to a very good output in the Super Shop Management System. The owner can access different information from the sites via server or host and look over the whole database management system from one server.
