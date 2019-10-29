@@ -46,9 +46,14 @@ Functions:
 2. Function2: Displays the total number of customers from the both of the sites.
 
 Procedures:
-1. Procedure1: Checks and displays the membership of the customers.
+1. Procedure1: Checks and displays the membership of the customers with join operation.
 2. Procedure2: Displays the sales report.
 3. Procedure3: Distributes the warehouse.
+4. Procedure4: prediction of a sales outcome for any month using machine learning.
+5. Procedure5: Top selling information.
+6. Procedure6: Search product.
+7. Procedure7: Check membership with semi join.
+
 
 Machine Learning Technique:
 In a procedure , we used a machine learning technique called linear regression to predict the sales outcome for any month. Our dataset includes 2 columns (Month = x, Sales = y). So for month, x = 1, 2…12 we inserted sales value y. Then we calculated values by using the regression formula for a and b. Then for any month, x = 1 = January we calculated y = a + bx and found the predicted score.
