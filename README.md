@@ -1,4 +1,4 @@
-# Super-Shop
+# Super-Shop-Management
 
 Introduction: 
 A super shop is a large retailer who stocks and sells a wide variety of merchandise including groceries, clothing and general supplies, or a large store that sells a massive quantity of goods in one product line such as electronics or shoes. Super shops are very large supermarkets or shops selling household goods and equipment. Super shops are usually built outside city centers away from other shops. 
